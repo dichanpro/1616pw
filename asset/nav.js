@@ -17,6 +17,7 @@ nav.list[0] = [{
 }, {
   name: "常用网址", icon: "fa-solid fa-school", item: [
     { text: "地产工作台", desc: "FDC360.COM", link: "https://www.fdc360.com/" },
+    { text: "巧夺天工", desc: "WPS 365协同", link: "https://qdtg.xyz/" },
     { text: "逍遥小酒馆", desc: "2ND.CN", link: "https://www.2nd.cn/wp-admin/" },
     { text: "Claude", desc: "需要网络支持", link: "https://claude.ai/" },
     { text: "Gamma", desc: "AI生成ppt", link: "https://gamma.app/" },
