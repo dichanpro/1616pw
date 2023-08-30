@@ -78,6 +78,7 @@ nav.list[1] = [{
   ]
 }, {
   name: "在线工具", icon: "fa-solid fa-toolbox", item: [
+    { text: "Edit.Photo", desc: "在线免费修图", link: "https://edit.photo/" },  
     { text: "汉字转拼音", desc: "查域名常用", link: "https://www.wetools.com/pinyin" },  
     { text: "WeTools", link: "http://www.wetools.com/" },
     { text: "帮小忙", desc: "腾讯", link: "https://tool.browser.qq.com/" },
