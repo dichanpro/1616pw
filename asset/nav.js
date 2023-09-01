@@ -27,7 +27,7 @@ nav.list[0] = [{
     { text: "FlowUs", desc: "市场小组协同", link: "https://www.flowus.cn/" },
     { text: "语雀", desc: "产品小组协同", link: "https://www.yuque.com/" },
     { text: "Cubox", desc: "Web Clipper", link: "https://cubox.pro/my/inbox" }, 
-    { text: "GitHub", desc: "项目托管平台", link: "http://www.github.com/" }, 
+    { text: "GitHub", icon: "fa-brands fa-github", desc: "项目托管平台", link: "http://www.github.com/" }, 
     { text: "新闻联播", desc: "新闻联播文字版", link: "http://www.tumute.com/wenziban/" }, 
   ]
 }, {
@@ -46,7 +46,7 @@ nav.list[0] = [{
     { text: "RSSHUB", desc: "需要网络支持", icon: "fa-solid fa-mobile-screen-button", link: "https://hzyaolin.vercel.app/" },
     { text: "WeRSS", desc: "微信公众号转RSS", icon: "fa-solid fa-rss", link: "https://werss.app/" },
     { text: "中文播客榜", icon: "fa-solid fa-podcast", desc: "播客排行榜", link: "https://xyzrank.com/" },
-    { text: "ChinesePodcasts", icon: "fa-brands fa-github", desc: "中文播客导航", link: "https://github.com/alaskasquirrel/Chinese-Podcasts" },
+    { text: "ChinesePodcasts", icon: "fa-solid fa-podcast", desc: "中文播客导航", link: "https://github.com/alaskasquirrel/Chinese-Podcasts" },
     { text: "Youtube", icon: "fa-brands fa-youtube", link: "https://www.youtube.com" },
     { text: "哔哩哔哩", icon: "fa-brands fa-bilibili", link: "https://www.bilibili.com" },
     { text: "推特", icon: "fa-brands fa-twitter", link: "https://twitter.com/" },
