@@ -27,6 +27,7 @@ nav.list[0] = [{
     { text: "FlowUs", desc: "市场小组协同", link: "https://www.flowus.cn/" },
     { text: "语雀", desc: "产品小组协同", link: "https://www.yuque.com/" },
     { text: "Cubox", desc: "Web Clipper", link: "https://cubox.pro/my/inbox" }, 
+    { text: "GitHub", desc: "项目托管平台", link: "http://www.github.com/" }, 
     { text: "新闻联播", desc: "新闻联播文字版", link: "http://www.tumute.com/wenziban/" }, 
   ]
 }, {
