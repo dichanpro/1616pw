@@ -37,6 +37,7 @@ nav.list[0] = [{
     { text: "TMDB", desc: "需要网络支持", link: "https://tmdb.org/" },
     { text: "ZBook", desc: "电子书", link: "https://zbook.eu.org/" },
     { text: "Mini4K", desc: "高清电影", link: "https://www.mini4k.com/" },
+    { text: "OpenWrt", desc: "路由", link: "http://192.168.2.1/" },
     { text: "Nas外", desc: "外网", link: "http://1717.me:5000/" },
     { text: "Nas内", desc: "内网", link: "http://192.168.124.37:5000/" },
   ]
