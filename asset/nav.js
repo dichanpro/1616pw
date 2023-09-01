@@ -29,6 +29,7 @@ nav.list[0] = [{
     { text: "Cubox", desc: "Web Clipper", link: "https://cubox.pro/my/inbox" }, 
     { text: "GitHub", icon: "fa-brands fa-github", desc: "项目托管平台", link: "http://www.github.com/" }, 
     { text: "新闻联播", desc: "新闻联播文字版", link: "http://www.tumute.com/wenziban/" }, 
+    { text: "经济数据", icon: "fa-solid fa-chart-column", desc: "东方财富", link: "https://data.eastmoney.com/cjsj/cpi.html" },    
   ]
 }, {
   name: "读书电影", icon: "fa-solid fa-book-open-reader", item: [
