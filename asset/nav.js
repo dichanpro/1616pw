@@ -13,6 +13,7 @@ nav.list[0] = [{
     { text: "知乎", link: "https://www.zhihu.com/" },
     { text: "百度翻译", link: "https://fanyi.baidu.com/" },
     { text: "DeepL", desc: "最准确翻译", link: "https://www.deepl.com/translator" },
+    { text: "百度汉语", desc: "拼音查询", link: "https://hanyu.baidu.com/" },
   ]
 }, {
   name: "常用网址", icon: "fa-solid fa-school", item: [
