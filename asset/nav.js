@@ -21,6 +21,7 @@ nav.list[0] = [{
     { text: "巧夺天工", desc: "WPS 365协同", link: "https://qdtg.xyz/" },
     { text: "逍遥小酒馆", desc: "2ND.CN", link: "https://www.2nd.cn/wp-admin/" },
     { text: "Claude", desc: "AI", link: "https://claude.ai/" },
+    { text: "ChatPDF", desc: "AI", link: "https://www.chatpdf.com/" },
     { text: "7888.fun", desc: "ChatGPT", link: "https://7888.fun" },
     { text: "Gamma", desc: "AI生成ppt", link: "https://gamma.app/" },
     { text: "腾讯AI创作", desc: "Tencent AI Lab", link: "https://effidit.qq.com/" },  
@@ -29,8 +30,7 @@ nav.list[0] = [{
     { text: "语雀", desc: "产品小组协同", link: "https://www.yuque.com/" },
     { text: "Cubox", desc: "Web Clipper", link: "https://cubox.pro/my/inbox" }, 
     { text: "GitHub", icon: "fa-brands fa-github", desc: "项目托管平台", link: "http://www.github.com/" }, 
-     { text: "GitHub", icon: "fa-brands fa-github", desc: "GitHub开源项目", link: "https://hellogithub.com/" }, 
-    
+    { text: "GitHub", icon: "fa-brands fa-github", desc: "GitHub开源项目", link: "https://hellogithub.com/" }, 
     { text: "新闻联播", desc: "新闻联播文字版", link: "http://www.tumute.com/wenziban/" }, 
     { text: "经济数据", icon: "fa-solid fa-chart-column", desc: "东方财富", link: "https://data.eastmoney.com/cjsj/cpi.html" },    
   ]
@@ -44,6 +44,7 @@ nav.list[0] = [{
     { text: "OpenWrt", desc: "路由", link: "http://192.168.2.1/cgi-bin/luci/admin/services/shadowsocksr" },
     { text: "Nas外", desc: "外网", link: "http://1717.me:5000/" },
     { text: "Nas内", desc: "内网", link: "http://192.168.124.37:5000/" },
+    { text: "FridayFlashFiction", desc: "英文短篇", link: "https://www.fridayflashfiction.com/" },
   ]
 }, {
   name: "信息输入", icon: "fa-solid fa-circle-nodes", item: [
