@@ -102,8 +102,8 @@ nav.list[1] = [{
     { text: "2ND软件", link: "https://www.2nd.cn/soft" },
     { text: "联想应用商店", link: "https://lestore.lenovo.com/" },
     { text: "果核剥壳", link: "https://www.ghxi.com/" },
-    { text: "Digit77", link: "https://www.digit77.com/" },
-    { text: "JB破解", link: "https://3.jetbra.in/" },
+    { text: "软仓", link: "https://ruancang.net/" },
+    { text: "精品MAC应用分享", link: "https://xclient.info/" },
   ]
 }, {
   name: "友链", icon: "fa-solid fa-link",
