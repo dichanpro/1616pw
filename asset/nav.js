@@ -84,6 +84,7 @@ nav.list[1] = [{
     { text: "NameCheap", desc: "域名服务商", link: "https://www.namecheap.com/" }, 
     { text: "域名交易平台", desc: "阿里云旗下", link: "https://mi.aliyun.com" },  
     { text: "广航域名", desc: "非主流后缀", link: "https://ymp.com/" },
+    { text: "玩米", desc: "域名交易数据", link: "https://wanmi.cc/" },
   ]
 }, {
   name: "在线工具", icon: "fa-solid fa-toolbox", item: [
