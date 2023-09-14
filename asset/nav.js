@@ -18,6 +18,7 @@ nav.list[0] = [{
   ]
 }, {
   name: "常用网址", icon: "fa-solid fa-school", item: [
+    { text: "AI去办", desc: "AI78.COM", link: "https://www.ai78.com/" },
     { text: "地产工作台", desc: "FDC360.COM", link: "https://www.fdc360.com/" },
     { text: "巧夺天工", desc: "WPS 365协同", link: "https://qdtg.xyz/" },
     { text: "逍遥小酒馆", desc: "2ND.CN", link: "https://www.2nd.cn/wp-admin/" },
@@ -80,11 +81,13 @@ nav.list[1] = [{
     { text: "Vercel", desc: "开源平台", link: "https://vercel.com/" },
     { text: "腾讯云", desc: "DNS 服务器", link: "https://cloud.tencent.com/" },
     { text: "阿里云", desc: "域名 空间", link: "https://www.aliyun.com/" },
+    { text: "聚名", desc: "常用服务商", link: "https://www.juming.com" },
     { text: "eName", desc: "常用服务商", link: "https://www.ename.cn" },
     { text: "西部数据", desc: "常用服务商", link: "https://west.cn" },
     { text: "NameCheap", desc: "域名服务商", link: "https://www.namecheap.com/" }, 
     { text: "域名交易平台", desc: "阿里云旗下", link: "https://mi.aliyun.com" },  
     { text: "广航域名", desc: "非主流后缀", link: "https://ymp.com/" },
+    { text: "聚查", desc: "域名查询", link: "https://www.jucha.com/" },
     { text: "玩米", desc: "域名交易数据", link: "https://wanmi.cc/" },
   ]
 }, {
@@ -111,9 +114,11 @@ nav.list[1] = [{
   name: "友链", icon: "fa-solid fa-link",
   desc: `<a onclick="dialog.msg('联系方式')"><i class="fa-solid fa-user-plus"></i> 添加友链</a>`,
   item: [
+    { text: "AI去办", desc: "AI78.COM", link: "https://www.ai78.com/" },
     { text: "地产工作台", link: "https://www.fdc360.com/" },
     { text: "逍遥小酒馆", link: "https://www.2nd.cn/" },
-    { text: "咖啡豆Obsidian", link: "https://obsidian.vip/" },
+    { text: "尽调宝", desc: "Jindiaobao.cn", link: "https://www.jindiaobao.cn/" },
+    { text: "掘金包", desc: "Juejinbao.cn", link: "https://www.juejinbao.cn" },
   ]
 },]
 
