@@ -41,6 +41,7 @@ nav.list[0] = [{
     { text: "微信读书", icon: "fa-solid fa-bookmark", link: "https://weread.qq.com/" },
     { text: "豆瓣", link: "https://www.douban.com" },
     { text: "TMDB", desc: "需要网络支持", link: "https://tmdb.org/" },
+    { text: "纪录片", desc: "英文", link: "https://rocumentaries.com/" },
     { text: "ZBook", desc: "电子书", link: "https://zbook.eu.org/" },
     { text: "Mini4K", desc: "高清电影", link: "https://www.mini4k.com/" },
     { text: "OpenWrt", desc: "路由", link: "http://192.168.2.1/cgi-bin/luci/admin/services/shadowsocksr" },
