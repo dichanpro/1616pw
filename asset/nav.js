@@ -14,10 +14,13 @@ nav.list[0] = [{
     { text: "百度翻译", link: "https://fanyi.baidu.com/" },
     { text: "DeepL", desc: "最准确翻译", link: "https://www.deepl.com/translator" },
     { text: "百度汉语", desc: "拼音查询", link: "https://hanyu.baidu.com/" },
+    { text: "Perplexity", desc: "AI综合搜索", link: "https://www.perplexity.ai/" },
     { text: "探索兔", desc: "小众软件搜索神奇", link: "https://www.tansuotu.com/" },
   ]
 }, {
   name: "常用网址", icon: "fa-solid fa-school", item: [
+    { text: "Zoho邮箱", desc: "e#yl.wiki", link: "https://mail.zoho.jp/" },
+    { text: "闪念笔记", desc: "Montaigne.io", link: "https://qsnb.montaigne.io/" },
     { text: "AI去办", desc: "AI78.COM", link: "https://www.ai78.com/" },
     { text: "地产工作台", desc: "FDC360.COM", link: "https://www.fdc360.com/" },
     { text: "巧夺天工", desc: "WPS 365协同", link: "https://qdtg.xyz/" },
