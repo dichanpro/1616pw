@@ -46,6 +46,7 @@ nav.list[0] = [{
     { text: "TMDB", desc: "需要网络支持", link: "https://tmdb.org/" },
     { text: "纪录片", desc: "英文", link: "https://rocumentaries.com/" },
     { text: "ZBook", desc: "电子书", link: "https://book-searcher.eu.org/" },
+    { text: "安娜的档案", desc: "电子书", link: "https://zh.annas-archive.org/" },
     { text: "Mini4K", desc: "高清电影", link: "https://www.mini4k.com/" },
     { text: "OpenWrt", desc: "路由", link: "http://192.168.2.1/cgi-bin/luci/admin/services/shadowsocksr" },
     { text: "Nas外", desc: "外网", link: "http://1717.me:5000/" },
