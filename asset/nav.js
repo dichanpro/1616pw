@@ -66,6 +66,7 @@ nav.list[0] = [{
     { text: "小红书", link: "https://xiaohongshu.com" },
     { text: "少数派", link: "https://sspai.com/" },
     { text: "Chiphell", link: "https://www.chiphell.com/" },
+    { text: "Vondy",desc: "Ai Tools 集合", link: "https://www.vondy.com/" },
     { text: "图像创建器", desc: "NewBing", link: "https://www.bing.com/images/create?FORM=GENILP" },
   ]
 },]
