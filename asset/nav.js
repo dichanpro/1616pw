@@ -59,6 +59,7 @@ nav.list[0] = [{
     { text: "RSSHUB", desc: "需要网络支持", icon: "fa-solid fa-mobile-screen-button", link: "https://hzyaolin.vercel.app/" },
     { text: "WeRSS", desc: "微信公众号转RSS", icon: "fa-solid fa-rss", link: "https://werss.app/" },
     { text: "中文播客榜", icon: "fa-solid fa-podcast", desc: "播客排行榜", link: "https://xyzrank.com/" },
+    { text: "中文播客榜", icon: "fa-solid fa-podcast", desc: "播客 RSS Feed", link: "https://getpodcast.xyz/" },
     { text: "ChinesePodcasts", icon: "fa-solid fa-podcast", desc: "中文播客导航", link: "https://github.com/alaskasquirrel/Chinese-Podcasts" },
     { text: "Youtube", icon: "fa-brands fa-youtube", link: "https://www.youtube.com" },
     { text: "哔哩哔哩", icon: "fa-brands fa-bilibili", link: "https://www.bilibili.com" },
@@ -121,6 +122,7 @@ nav.list[1] = [{
   desc: `<a onclick="dialog.msg('联系方式')"><i class="fa-solid fa-user-plus"></i> 添加友链</a>`,
   item: [
     { text: "AI去办", desc: "AI78.COM", link: "https://www.ai78.com/" },
+    { text: "地产云", desc: "DichanYun.COM", link: "https://www.dichanyun.com/" },
     { text: "地产工作台", link: "https://www.fdc360.com/" },
     { text: "逍遥小酒馆", link: "https://www.2nd.cn/" },
     { text: "尽调宝", desc: "Jindiaobao.cn", link: "https://www.jindiaobao.cn/" },
