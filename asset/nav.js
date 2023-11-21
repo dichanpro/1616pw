@@ -59,7 +59,7 @@ nav.list[0] = [{
     { text: "RSSHUB", desc: "需要网络支持", icon: "fa-solid fa-mobile-screen-button", link: "https://hzyaolin.vercel.app/" },
     { text: "WeRSS", desc: "微信公众号转RSS", icon: "fa-solid fa-rss", link: "https://werss.app/" },
     { text: "中文播客榜", icon: "fa-solid fa-podcast", desc: "播客排行榜", link: "https://xyzrank.com/" },
-    { text: "中文播客榜", icon: "fa-solid fa-podcast", desc: "播客 RSS Feed", link: "https://getpodcast.xyz/" },
+    { text: "播客订阅地址", icon: "fa-solid fa-podcast", desc: "播客 RSS Feed", link: "https://getpodcast.xyz/" },
     { text: "ChinesePodcasts", icon: "fa-solid fa-podcast", desc: "中文播客导航", link: "https://github.com/alaskasquirrel/Chinese-Podcasts" },
     { text: "Youtube", icon: "fa-brands fa-youtube", link: "https://www.youtube.com" },
     { text: "哔哩哔哩", icon: "fa-brands fa-bilibili", link: "https://www.bilibili.com" },
